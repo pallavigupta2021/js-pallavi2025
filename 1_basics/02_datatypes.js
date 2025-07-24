@@ -1,17 +1,17 @@
 "use strict";
 
-// alert (3+3)  //we are using node.js , not browser 
+// alert ( 3 + 3 )  // we are using node.js , not browser 
 
-console.log(3
+console.log ( 3
     +
-    3); // this is not correct way to code define code should be high and readbility 
+    3 ); // this is not correct way to code define code should be high and readbility 
 
 console.log("pallavi");
 
 
 let name = "pallavi";
 let age = 18 
-let isLoggedIn  = false
+let isLoggedIn = false
 let state;
 
 // number => 2 to power 53 
